@@ -123,7 +123,7 @@
 <body>
     <header class="header" style="display:flex;justify-content:space-between">
         <h1 class="blog-title">Welcome to My Blog</h1>
-        <a href="/login"><button  class="btn btn-primary">Login</button></a>
+        <a href="/user"><button  class="btn btn-primary">User Details</button></a>
     </header>
 
     <div class="blog-container">
